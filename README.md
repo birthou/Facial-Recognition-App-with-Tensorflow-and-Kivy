@@ -22,3 +22,4 @@ We’ll wrap up this tutorial with a discussion of our results.
 ![keras_siamese_networks_process](https://user-images.githubusercontent.com/19749662/220167334-de95318f-be8a-4b3a-8bbb-caa62308f9b2.png)
 
 https://pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/
+https://towardsdatascience.com/what-are-siamese-neural-networks-in-deep-learning-bb092f749dcb
